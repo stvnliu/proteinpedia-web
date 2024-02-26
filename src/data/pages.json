@@ -94,6 +94,10 @@
 							},
 							{
 								"type": "text",
+								"content": "Hydrophilic amino acids: Arginine, Asparagine, Aspartic acid, Glutamine, Glutamic acid, Histidine, Lysine, Serine, Threonine"
+							},
+							{
+								"type": "text",
 								"content": "Notice there are 3 amino acids that are not on the list among all the amino acids that our DNA code for which are Cysteine, Glycine, Tyrosine."
 							},
 							{
