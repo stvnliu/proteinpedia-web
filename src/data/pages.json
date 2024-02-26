@@ -1,0 +1,180 @@
+{
+	"homepage": {
+		"title": "What are amino acids?",
+		"content": [
+			{
+				"type": "text",
+				"content": "Amino acids are organic compounds that contain both amino (NH2) and carboxylic acid (COOH) functional groups except for proline, which serve as the building blocks of proteins."
+			},
+			{
+				"type": "text",
+				"content": "There are more than 500 amino acids in the nature, but only 22 of them are involved in protein synthesis which are called proteinogenic amino acids, and only 20 of them are coded it the DNA with 2 additional amino acids that are not coded in the DNA (Selenocysteine and pyrrolysine)"
+			},
+			{
+				"type": "section",
+				"heading": "Properties of amino acids",
+				"content": [
+					{
+						"type": "text",
+						"content": "The \"R\" represents a variable side chain or functional group specific to each amino acid, which determines the identity and properties of the amino acid."
+					},
+					{
+						"type": "text",
+						"content": "Most naturally occurring amino acids in proteins have the L- configuration, with the exception of some which have the D- configuration."
+					},
+					{
+						"type": "text",
+						"content": "The L- and D-configurations refer to the spatial arrangement or stereochemistry around the α-carbon (the central carbon) in amino acids. This configuration is determined by the arrangement of the four groups bonded to the alpha carbon: the amino group (-NH2), the carboxyl group (-COOH), the hydrogen atom (H), and the variable side chain (R)."
+					}
+				]
+			},
+			{
+				"type": "section",
+				"heading": "Configurations",
+				"content": [
+					{
+						"type": "text",
+						"content": "Amino acids are classified according to the structure and properties of their side chains. The hydrophobic or hydrophilic (‘water hating’ or ‘water loving’) nature of the side chain is usually emphasized, as it is a key determinant of how the amino acid interacts with other chemical groups. Hydrophilic amino acids have side chains that are charged or polar (with charge distributed unevenly) at physiological pH.  ( more about pKa later)"
+					},
+					{
+						"type": "section",
+						"heading": "L-configuration",
+						"content": [
+							{
+								"type": "text",
+								"content": "In the L-configuration, the amino group (-NH2) is positioned on the left side of the alpha carbon when the carboxyl group (-COOH) is oriented toward you."
+							}
+						]
+					},
+					{
+						"type": "section",
+						"heading": "D-configuration",
+						"content": [
+							{
+								"type": "text",
+								"content": "in the D-configuration, the amino group (-nh2) is positioned on the right side of the alpha carbon when the carboxyl group (-cooh) is oriented toward you. this is the mirror image of the l-configuration. few amino acids with d-configuration are found in proteins, but they are present in some bacterial cell walls and certain antibiotics."
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "section",
+				"heading": "Classification",
+				"content": [
+					{
+						"type": "section",
+						"heading": "Classification system based on the locations of the main functional groups",
+						"content": [
+							{
+								"type": "text",
+								"content": "α-carbon refers to the first carbon atom that attaches to a functional group, in the case of amino acids it refers to the carboxylic acid.  The second is called β-carbon, the third is called γ-carbon."
+							},
+							{
+								"type": "text",
+								"content": "α-amino acids: when the amino group attaches to the α-carbon, notice that all amino acids that mentioned above which are involved protein synthesis are α-amino acids"
+							},
+							{
+								"type": "text",
+								"content": "β-amino acids: when the amino group attaches to the β-carbon"
+							},
+							{
+								"type": "text",
+								"content": "γ-amino acids: when the amino group attaches to the γ-carbon"
+							}
+						]
+					},
+					{
+						"type": "section",
+						"heading": "Classification system based on the hydrophobicity and hydrophilicity",
+						"content": [
+							{
+								"type": "text",
+								"content": "Hydrophobic amino acids: Alanine, Isoleucine, leucine, methionine, phenylalanine, proline, tryptophan, valine"
+							},
+							{
+								"type": "text",
+								"content": "Notice there are 3 amino acids that are not on the list among all the amino acids that our DNA code for which are Cysteine, Glycine, Tyrosine."
+							},
+							{
+								"type": "text",
+								"content": "Cysteine: due to the presence of sulfhydryl group and the sulphur in it has the electronegativity (the ability to attract the shared pair of electrons) of 2.6. Thus, when it bonds with hydrogen atom, it becomes less strongly polar. Consequently, cysteine is sometimes categorized in hydrophobic and hydrophilic."
+							},
+							{
+								"type": "text",
+								"content": "Glycine: glycine is considered as the smallest amino acids due to its side chain which only contains one hydrogen atom, and this makes it to be considered as neutral which means either hydrophobic or hydrophilic."
+							},
+							{
+								"type": "text",
+								"content": "Tyrosine: tyrosine is an aromatic amino acid which means that they have cyclic planar rings, and it gives tyrosine a hydrophobic property. However, the hydroxyl group which is polar attached to it can form hydrogen bond, and this gives it hydrophilic property. As a result, it is considered as having a “mixed” classification."
+							}
+						]
+					},
+					{
+						"type": "section",
+						"heading": "Classification based on whether they are aliphatic or aromatic",
+						"content": [
+							{
+								"type": "text",
+								"content": "Aliphatic (aliphatic means open noncyclic structures) amino acids are a subset of amino acids characterized by having aliphatic (open noncyclic structures) and non-aromatic side chains."
+							},
+							{
+								"type": "text",
+								"content": "These side chains consist of straight or branched carbon chains without aromatic rings. They are always non-polar and hydrophobic; the hydrophobicity increases as the carbon atoms on the hydrocarbon chain increases."
+							},
+							{
+								"type": "text",
+								"content": "Aliphatic amino acids: Glycine, Alanine, Valine, Leucine, Isoleucine"
+							},
+							{
+								"type": "text",
+								"content": "Aromatic amino acids are a class of amino acids characterized by having an aromatic ring in their side chains. This aromatic ring is made up of six carbon atoms bonded together in a cyclic structure with alternating single and double bonds, resulting in a planar, stable ring system. They are also always hydrophobic."
+							},
+							{
+								"type": "text",
+								"content": "Aromatic amino acids: Phenylalanine, Tyrosine, Tryptophan"
+							}
+						]
+					},
+					{
+						"type": "section",
+						"heading": "Classification system based on essentiality",
+						"content": [
+							{
+								"type": "text",
+								"content": "There 3 types of amino acids in this system: essential, non-essential and conditionally essential."
+							},
+							{
+								"type": "text",
+								"content": "Essential amino acids are not synthesised by mammals. Hence, they are dietarily essential."
+							},
+							{
+								"type": "text",
+								"content": "Essential amino acids: Histidine, isoleucine, leucine, lysine, methionine, phenylalanine, tryptophan, threonine"
+							},
+							{
+								"type": "text",
+								"content": "Conditionally essential amino acids are always not essential, but in certain cases, for example, under diseases or stress are essential."
+							},
+							{
+								"type": "text",
+								"content": "Conditionally essential amino acids: Arginine, Cysteine, Glutamine, Glycine, Proline, Serine, Tyrosine"
+							},
+							{
+								"type": "text",
+								"content": "Non-essential amino acids means that they can be synthesized by our bodies even if we do not get them from our diet."
+							},
+							{
+								"type": "text",
+								"content": "Non-essential amino acids: Alanine, Asparagine, Aspartic acid, Glutamic acid"
+							}
+						]
+					}
+				]
+			}
+		],
+		"footnotes": [
+			"There are many other classifications system that will not be mentioned in this web. However, they are also very useful and being academically approved. For example, the classifications system based on ionization."
+		]
+	}
+}
